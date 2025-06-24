@@ -4,9 +4,19 @@ A powerful web app that detects **fake job postings** using a blend of **LLMs**,
 
 ---
 
-##  Live Demo
-👉 [Try it here]((https://huggingface.co/spaces/zahraa12355/Fakenews_detector))
+## 🚀 Live Demo
 
+Experience the **Fake Job Detector** in action — instantly check if a job posting is fake or genuine using our AI-powered model!
+
+Simply visit the app here:  
+👉 [https://huggingface.co/spaces/zahraa12355/Fakenews_detector](https://huggingface.co/spaces/zahraa12355/Fakenews_detector)
+
+### How to use the demo:
+
+1. Enter the job posting text or paste the job description you want to check.  
+2. Click the **Detect** button.  
+3. See the model’s prediction and confidence score instantly.
+Feel free to try multiple examples and explore how the model helps spot fake job ads!
 
 ##  About the Project
 This project aims to fight online recruitment fraud by automatically identifying fake job listings using:
