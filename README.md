@@ -41,3 +41,13 @@ pip install -r requirements.txt
 # 3. Run the app
 python app.py
 ```
+##License
+MIT License
+---
+
+##  Acknowledgments
+
+-  [Hugging Face Transformers](https://huggingface.co/transformers)
+- [TinyBERT by Huawei Noah’s Ark Lab](https://huggingface.co/huawei-noah/TinyBERT_General_4L_312D)
+- [OpenAI](https://openai.com/) — for LLM-enhanced architecture inspiration
+
